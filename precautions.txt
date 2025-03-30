@@ -1,0 +1,5 @@
+Potato___Early_blight@@Use disease-free seed potatoes. Keep cull/compost piles away from potato growing areas. Destroy any volunteer potato plants. Keep tubers covered with soil throughout the season to prevent tuber infection. Remove infected tubers before storing to prevent the spread of disease in storage. Kill vines completely before harvest to avoid inoculation of the tubers during harvest. Resistant varieties are available, although some fungicides must still be applied to resistant cultivars. See current recommendations for chemical control measures.
+Potato___healthy@@Healthy plant
+Pepper__bell___Bacterial_spot@@Crop rotation can help prevent bacterial leaf spot. \nDo not plant peppers or tomatoes in a location where either of these crops has been grown in the past four or five years.
+Potato___Late_blight@@The severe late blight can be effectively managed with prophylactic spray of mancozeb at 0.25% \n followed by cymoxanil+mancozeb or dimethomorph+mancozeb at 0.3% at the onset of disease and one more spray of mancozeb at 0.25% seven days after application of systemic fungicides
+Pepper__bell___healthy@@Healthy plant
