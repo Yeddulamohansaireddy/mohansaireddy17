@@ -1,0 +1,7 @@
+tkinter
+pymysql
+pillow
+numpy
+cv2
+scikit
+numpy
